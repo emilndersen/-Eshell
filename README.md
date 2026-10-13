@@ -6,7 +6,7 @@
 
 [![Language](https://img.shields.io/badge/language-C-00599C?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Platform](https://img.shields.io/badge/platform-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
-[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](https://github.com/emilndersen/-Eshell/tree/main#)
+[![License](https://img.shields.io/badge/license-GPL--3.0-blue?style=flat-square)](https://github.com/emilndersen/-Eshell/blob/main/LICENSE)
 
 </div>
 
